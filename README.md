@@ -1,3 +1,6 @@
+# OpenMRS Changes from win
+
+
 <img src="https://talk.openmrs.org/uploads/default/original/2X/f/f1ec579b0398cb04c80a54c56da219b2440fe249.jpg" alt="OpenMRS"/>
 
 [![Build Status](https://travis-ci.org/openmrs/openmrs-core.svg?branch=master)](https://travis-ci.org/openmrs/openmrs-core) [![Coverage Status](https://coveralls.io/repos/github/openmrs/openmrs-core/badge.svg?branch=master)](https://coveralls.io/github/openmrs/openmrs-core?branch=master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a51303ee46c34775a7c31c8d6016da6b)](https://www.codacy.com/app/openmrs/openmrs-core?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=openmrs/openmrs-core&amp;utm_campaign=Badge_Grade)
@@ -14,26 +17,31 @@ The mission of OpenMRS is to improve health care delivery in resource-constraine
 
 #### Table of Contents
 
-1. [Build](#build)
-   1. [Prerequisites](#prerequisites)
-   2. [Build Command](#build-command)
-   3. [Deploy](#deploy)
-2. [Docker build](#docker-build)
-3. [Navigating the repository](#navigating-the-repository)
-4. [Software Development Kit](#software-development-kit)
-5. [Extending OpenMRS with Modules](#extending-openmrs-with-modules)
-6. [Documentation](#documentation)
-   1. [Developer guides](#developer-guides)
-   2. [Wiki](#wiki)
-   3. [Website](#website)
-7. [Contributing](#contributing)
-   1. [Code](#code)
-   2. [Code Reviews](#code-reviews)
-   3. [Translation](#translation)
-8. [Issues](#issues)
-9. [Community](#community)
-10. [Support](#support)
-11. [License](#license)
+- [](#)
+      - [Table of Contents](#table-of-contents)
+  - [Build](#build)
+    - [Prerequisites](#prerequisites)
+      - [Java](#java)
+      - [Maven](#maven)
+      - [Git](#git)
+    - [Build Command](#build-command)
+    - [Deploy](#deploy)
+  - [Docker build](#docker-build)
+  - [Navigating the repository](#navigating-the-repository)
+  - [Software Development Kit](#software-development-kit)
+  - [Extending OpenMRS with Modules](#extending-openmrs-with-modules)
+  - [Documentation](#documentation)
+    - [Developer guides](#developer-guides)
+    - [Wiki](#wiki)
+    - [Website](#website)
+  - [Contributing](#contributing)
+    - [Code](#code)
+    - [Code Reviews](#code-reviews)
+    - [Translation](#translation)
+  - [Issues](#issues)
+  - [Community](#community)
+  - [Support](#support)
+  - [License](#license)
 
 ## Build
 
